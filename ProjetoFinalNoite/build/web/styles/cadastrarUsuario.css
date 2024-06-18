@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container-cadastro {
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 35px;
+}
